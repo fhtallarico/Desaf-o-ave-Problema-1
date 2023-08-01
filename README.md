@@ -14,3 +14,9 @@ Este es un programa en JavaScript que realiza la multiplicación de dos números
 
 ```bash
 node multiplicador.js
+```
+
+# Problema
+
+Se debe crear una solución que dado 2 números X y Y cualesquiera, se obtenga la
+multiplicación de los mismos SIN usar el operador de multiplicación *.
